@@ -1,0 +1,23 @@
+
+.*/
+!.config/
+
+
+# MacOS Directories
+Library/*
+Movies/*
+
+# Tooling Generated Files
+
+# Node Generated Files
+**/node_modules/*
+
+# .NET Generated Files
+**/bin/*
+**/obj/*
+
+# Java Generated Files
+**/target/*
+
+# Golang Generated Files
+go/*
